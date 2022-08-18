@@ -1,0 +1,12 @@
+{
+  "server": true,
+  "bind_addr": "172.24.0.5",
+  "bootstrap_expect": 3,
+  "data_dir": "/tmp",
+  "node_name": "consulserver01",
+  "encrypt": "XHCfvMm8Qay32SbsPxWQUBjAy+7hxJFFnP1jtzSu8ug=",
+  "client_addr": "0.0.0.0",
+  "ui_config": {
+    "enabled": true
+  }
+}
